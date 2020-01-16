@@ -1,1 +1,1 @@
-Problems I have solved on LeetCode. :)
+Problems I  solved on LeetCode!
